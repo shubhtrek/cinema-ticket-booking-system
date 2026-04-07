@@ -38,6 +38,7 @@ go run main.go
 * Temporary seat holding
 * Booking confirmation & release
 * Redis-based session management
+* Real Time results 
 
 ## 📚 Learning
 
