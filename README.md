@@ -43,3 +43,7 @@ go run main.go
 ## 📚 Learning
 
 Built to understand backend system design, API handling, and state management using Go.
+
+## Note
+
+This prooject fully idea based from yt
