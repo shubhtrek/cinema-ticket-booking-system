@@ -32,6 +32,9 @@ go run main.go
 * `PUT /sessions/{sessionID}/confirm` → Confirm booking
 * `DELETE /sessions/{sessionID}` → Release booking
 
+# Trying implemant other API methods too
+
+
 ## ✨ Features
 
 * Seat selection system
